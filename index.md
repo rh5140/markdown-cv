@@ -18,11 +18,14 @@ Computer Science Student, Game Developer
 `October 2020 - June 2024`
 __University of California - Los Angeles (UCLA), Los Angeles, CA__
 - B.S. in Computer Science
+    - Relevant Coursework: Data Structures & Algorithms, Data Science, Software Construction Laboratory, Operating Systems, Linear Algebra
+- Minor in Digital Humanities
+    - Relevant Coursework: Web Dev & GIS for Social Change, AI and Society, Introduction to Digital Humanities
 
 `August 2019 - June 2020`
 __Ohlone College, Fremont, CA__
-
 - High School Dual Enrollment
+    - Coursework: Introduction to Programming in C++, Discrete Structures
 
 
 
@@ -42,7 +45,8 @@ __ACM Game Studio at UCLA__
 `March 2022`
 __Game Developers Conference__
 - Conference Associate
-    - Delivered positive attendee experience at the world's largest game development conference
+    - Delivered positive attendee experience by helping them feel welcome and answering their questions
+    - Guarded doors and scanned badges, monitored sessions, and assisted speakers
 
 ## Projects
 
@@ -51,6 +55,7 @@ __Debugger (in progress)__
 - 2D puzzle game developed with a team of 12 over two school quarters
     - Set up GitHub repository and project board
     - Designate and communicate with leads for programming, art, and design discussion subteams
+    - Specify criteria for art assets and import into Unity project
     - Playtest, give feedback, and review pull requests
     - Hold weekly meetings to check in with team members and overall game progress
 
@@ -75,7 +80,12 @@ __Cranky.__
     - Programmed dialogue manager and text parser in C#
     - Tested gameplay and gave feedback regarding bugs and narrative issues
 
-
+`May 2021 - June 2021`
+__Tenants' Rights Mapping Project__
+- 2D walking simulator developed with a team of seven over 48 hours
+    - Established game concept, wrote dialogue, composited Unity scenes to fit flow of game
+    - Programmed dialogue manager and text parser in C#
+    - Tested gameplay and gave feedback regarding bugs and narrative issues
 
 ## Skills
 - Technical: C/C++, C#, Java, Python, JavaScript, CSS, HTML, Git, Unity engine, Figma, Adobe Photoshop
