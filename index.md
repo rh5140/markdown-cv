@@ -10,17 +10,24 @@ Computer Science Student, Game Developer
 | <a href="https://rh5140.github.io/">Website</a>
 </div>
 
+
+
+
 ## Education
 
 `October 2020 - June 2024`
 __University of California - Los Angeles (UCLA), Los Angeles, CA__
 - B.S. in Computer Science
-    - Relevant coursework: Data Structures and Algorithms, Data Science Fundamentals, Operating Systems Principles, Software Construction Laboratory, Introduction to Computer Organization
+    - Relevant Coursework: Data Structures & Algorithms, Data Science, Software Construction Laboratory, Operating Systems, Linear Algebra
+- Minor in Digital Humanities
+    - Relevant Coursework: Web Dev & GIS for Social Change, AI and Society, Introduction to Digital Humanities
 
 `August 2019 - June 2020`
 __Ohlone College, Fremont, CA__
 - High School Dual Enrollment
-    - Relevant coursework: Introduction to C++ Programming, Discrete Structures
+    - Coursework: Introduction to Programming in C++, Discrete Structures
+
+
 
 ## Experience
 
@@ -28,6 +35,7 @@ __Ohlone College, Fremont, CA__
 __ACM Game Studio at UCLA__
 - President, Officer
     - Run game development club of over 160 active members
+    - Establish budget for 2021-23 school year
     - Communicate and coordinate with tutorials and marketing/engagement officers
     - Teach game development tutorials on Git and Unity game engine uploaded to YouTube and GitHub
     - Organize directory of game development resources with Google Sheets
@@ -38,15 +46,17 @@ __ACM Game Studio at UCLA__
 `March 2022`
 __Game Developers Conference__
 - Conference Associate
-    - Delivered positive attendee experience at the world's largest game development conference
+    - Delivered positive attendee experience by helping attendees feel welcome and answering their questions
+    - Guarded doors and scanned badges, monitored sessions, and assisted speakers
 
 ## Projects
 
 `January 2022 - May 2022`
 __Debugger (in progress)__
 - 2D puzzle game developed with a team of 12 over two school quarters
+    - Lead, direct, manage, and motivate developers of multiple disciplines
     - Set up GitHub repository and project board
-    - Designate and communicate with leads for programming, art, and design discussion subteams
+    - Specify criteria for art assets and import into Unity project
     - Playtest, give feedback, and review pull requests
     - Hold weekly meetings to check in with team members and overall game progress
 
