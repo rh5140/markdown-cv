@@ -35,7 +35,7 @@ __Ohlone College, Fremont, CA__
 __ACM Game Studio at UCLA__
 - President, Officer
     - Run game development club of over 160 active members
-    - Establish budget for 2021-23 school year
+    - Establish budget for 2022-23 school year
     - Communicate and coordinate with tutorials and marketing/engagement officers
     - Teach game development tutorials on Git and Unity game engine uploaded to YouTube and GitHub
     - Organize directory of game development resources with Google Sheets
