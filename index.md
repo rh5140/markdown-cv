@@ -52,12 +52,14 @@ __Game Developers Conference__
 ## Projects
 
 `January 2022 - May 2022`
-__Debugger (in progress)__
+__Debugger (demo)__
 - 2D puzzle game developed with a team of 12 over two school quarters
     - Lead, direct, manage, and motivate developers of multiple disciplines
-    - Set up GitHub repository and project board
-    - Specify criteria for art assets and import into Unity project
+    - Set up GitHub repository and assign issues
     - Playtest, give feedback, and review pull requests
+    - Specify criteria for art assets and import into Unity project
+    - Implement animations for player character and bugs
+    - Design UI for menus and dialogue box
     - Hold weekly meetings to check in with team members and overall game progress
 
 `December 2021`
