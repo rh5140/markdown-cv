@@ -58,7 +58,7 @@ __Debugger (demo)__
     - Set up GitHub repository and assign issues
     - Playtest, give feedback, and review pull requests
     - Specify criteria for art assets and import into Unity project
-    - Implement animations for player character and bugs
+    - Implement character animations and speaker sprites in dialogue boxes
     - Design UI for menus and dialogue box
     - Hold weekly meetings to check in with team members and overall game progress
 
