@@ -36,7 +36,7 @@ __ACM Game Studio at UCLA__
 - President, Officer
     - Run game development club of over 160 active members
     - Establish budget for 2022-23 school year
-    - Communicate and coordinate with tutorials and marketing/engagement officers
+    - Communicate and coordinate workshop preparation and marketing efforts with 19-member board    
     - Teach game development tutorials on Git and Unity game engine uploaded to YouTube and GitHub
     - Organize directory of game development resources with Google Sheets
     - Compose and review emails for reaching out to alumni and guest speakers
