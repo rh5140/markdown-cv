@@ -18,7 +18,7 @@ Computer Science Student, Game Developer
 `October 2020 - June 2024`
 __University of California - Los Angeles (UCLA), Los Angeles, CA__
 - B.S. in Computer Science
-    - Relevant Coursework: Data Structures & Algorithms, Data Science, Software Construction Laboratory, Operating Systems, Linear Algebra
+    - Relevant Coursework: Data Structures & Algorithms, Data Science, Software Construction Laboratory, Operating Systems, Multivariable Calculus, Linear Algebra
 - Minor in Digital Humanities
     - Relevant Coursework: Web Dev & GIS for Social Change, AI and Society, Introduction to Digital Humanities
 
