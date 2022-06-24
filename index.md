@@ -84,6 +84,7 @@ __Cranky.__
     - Tested gameplay and gave feedback regarding bugs and narrative issues
 
 ## Skills
+- Organizational: Google Workspace, Slack, GitHub
 - Technical: C/C++, C#, Java, Python, JavaScript, CSS, HTML, Git, Unity engine, Figma, Adobe Photoshop
 - Artistic: traditional and digital art, graphic design, music composition, viola performance
 
