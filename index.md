@@ -19,8 +19,6 @@ Computer Science Student, Game Developer
 __University of California - Los Angeles (UCLA), Los Angeles, CA__
 - B.S. in Computer Science
     - Relevant Coursework: Data Structures & Algorithms, Data Science, Software Construction Laboratory, Operating Systems, Linear Algebra
-- Minor in Digital Humanities
-    - Relevant Coursework: Web Dev & GIS for Social Change, AI and Society, Introduction to Digital Humanities
 
 `August 2019 - June 2020`
 __Ohlone College, Fremont, CA__
@@ -33,14 +31,23 @@ __Ohlone College, Fremont, CA__
 
 `March 2021 - present`
 __ACM Game Studio at UCLA__
-- President, Officer
+- Advisor, President (February 2022 - March 2023), Officer
     - Run game development club of over 160 active members
+    - Plan and organize events with 100+ attendees
+    - Interface with other clubs on campus for collaboration events
     - Communicate and coordinate with tutorials and marketing/engagement officers
     - Teach game development tutorials on Git and Unity game engine uploaded to YouTube and GitHub
     - Organize directory of game development resources with Google Sheets
     - Compose and review emails for reaching out to alumni and guest speakers
     - Maintain and update Google Calendar of upcoming club events for general members
     - Arranged 150 students into 12 game development teams based on development interests and skill levels
+
+`September 2022`
+__PAX West__
+- Enforcer
+    - • Worked at Info Booth to answer attendee questions and manage lost & found items
+    - Checked in competitors for 64-person Mario Kart tournament
+    - Redirected attendees away from out-of-order escalator towards elevators
 
 `March 2022`
 __Game Developers Conference__
@@ -50,14 +57,27 @@ __Game Developers Conference__
 
 ## Projects
 
+`January 2023 - present`
+__Idoll__
+- 2D horror adventure game
+    - ● Delegate tasks and set deadlines for team of 13 developers as project co-lead
+    - ● Write and maintain game design document and programming document
+    - ● Teach team members how to use Unity and GitHub and review code
+
+`October 2022 - November 2022`
+__Scribble Rush__
+- A party game that has you draw a growingly complex character in thirty seconds, developed with a team of four
+   - • Designed game screen layouts
+   - • Developed accessible color palette based on IBM's
+
 `January 2022 - May 2022`
-__Debugger (in progress)__
+__Debugger__
 - 2D puzzle game developed with a team of 12 over two school quarters
-    - Set up GitHub repository and project board
-    - Designate and communicate with leads for programming, art, and design discussion subteams
-    - Specify criteria for art assets and import into Unity project
+    - Led, directed, managed, and motivated 11 developers of multiple disciplines
+    - Tuned visuals, audio, and mechanics according to central design pillars
     - Playtest, give feedback, and review pull requests
     - Hold weekly meetings to check in with team members and overall game progress
+    - Implemented dialogue system using Yarn Spinner and designed text boxes
 
 `December 2021`
 __Grabb Grab Grub!!__
